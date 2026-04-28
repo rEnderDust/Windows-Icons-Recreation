@@ -11,3 +11,5 @@ Cube internal names cheat sheet:
 **"Windows11"** - *Overwrites colors to use the Windows 11 logo's colors*
 
 **"Multicolored"** - *Overwrites colors to use all 4 colors of the Windows flag.*
+
+## *This texture pack requires the **"More Icons"** mod by hiimjustin000!*
